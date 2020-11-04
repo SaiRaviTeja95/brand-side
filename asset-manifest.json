@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/brand-side/static/js/main.291bf4bb.chunk.js",
+    "main.js.map": "/brand-side/static/js/main.291bf4bb.chunk.js.map",
+    "runtime-main.js": "/brand-side/static/js/runtime-main.efa2bbdf.js",
+    "runtime-main.js.map": "/brand-side/static/js/runtime-main.efa2bbdf.js.map",
+    "static/js/2.5a853ccc.chunk.js": "/brand-side/static/js/2.5a853ccc.chunk.js",
+    "static/js/2.5a853ccc.chunk.js.map": "/brand-side/static/js/2.5a853ccc.chunk.js.map",
+    "index.html": "/brand-side/index.html",
+    "static/js/2.5a853ccc.chunk.js.LICENSE.txt": "/brand-side/static/js/2.5a853ccc.chunk.js.LICENSE.txt",
+    "static/media/Aashna.be3a7b2c.png": "/brand-side/static/media/Aashna.be3a7b2c.png",
+    "static/media/Amaram.a0e5f419.png": "/brand-side/static/media/Amaram.a0e5f419.png",
+    "static/media/Influ1.f1cd768a.png": "/brand-side/static/media/Influ1.f1cd768a.png",
+    "static/media/Influ2.56ec2cb7.png": "/brand-side/static/media/Influ2.56ec2cb7.png",
+    "static/media/Influencer-Page-Banner-graphics@3x.c512585e.png": "/brand-side/static/media/Influencer-Page-Banner-graphics@3x.c512585e.png",
+    "static/media/Vikas.82aafaef.png": "/brand-side/static/media/Vikas.82aafaef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efa2bbdf.js",
+    "static/js/2.5a853ccc.chunk.js",
+    "static/js/main.291bf4bb.chunk.js"
+  ]
+}
